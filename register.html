@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="css/styles.css">
     <style>
         body {
-          background-image: url('image/background.jpg');
+            background-image: url('image/background.jpg');
         }
-      </style>
+    </style>
     <title>Shop Sanrio Plush</title>
 </head>
 
@@ -74,7 +74,14 @@
             </div>
         </nav>
     </header>
-    <main>
+    <main class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="head">Register </h1>
+            </div>
+        </div>
+
+
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">User Name</label>
             <input type="user-name" class="form-control" id="exampleFormControlInput1" placeholder="username123">
@@ -120,7 +127,12 @@
         <div class="col-auto">
             <button type="submit" class="btn btn-primary mb-3">Register</button>
         </div>
-        <button class="btn btn-outline-success"><a href="login.html" class="nav-link">Already Have an
-                Account?</a></button>
+        <div class="col-auto">
+        <a href="login.html" class="btn btn-primary mb-3">Already Have an Account?</a>
+        </div>
+
+
+
+
 
     </main>
