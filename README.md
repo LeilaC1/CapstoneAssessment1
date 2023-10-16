@@ -6,7 +6,7 @@ It's not completely responsive, just a demo for my assessment. It was built for 
 Also used Bootstrap and w3schools for the first time as a resource. Through the process, I learned to use GitHub, explored Bootstrap, and familiarized myself with it for efficient use.
 
 ## site images
-![alt text](home11.jpg)
+![home](home11.jpg)
 ![alt text](home1.jpg)
 ![alt text](image.jpg)
 
