@@ -6,10 +6,15 @@ It's not completely responsive, just a demo for my assessment. It was built for 
 Also used Bootstrap and w3schools for the first time as a resource. Through the process, I learned to use GitHub, explored Bootstrap, and familiarized myself with it for efficient use.
 
 ## site images
-![home](home11.jpg)
-![alt text](home1.jpg)
-![alt text](image.jpg)
-
+![home](home11.png)
+![home2](home1.png)
+![register](register.png)
+![login](login.png)
+![cart](cart1.png)
+![cart2](cart2.png)
+![categories](register.png)
+![productpage](productpage.png)
+![productpage](productpage2.png)
 
 ## note 
 an interesting HTML I wrote was in categories on like 88 to 96
