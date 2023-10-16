@@ -6,11 +6,13 @@ It's not completely responsive, just a demo for my assessment. It was built for 
 Also used Bootstrap and w3schools for the first time as a resource. Through the process, I learned to use GitHub, explored Bootstrap, and familiarized myself with it for efficient use.
 
 ## site images
-
+![alt text](home11.jpg)
+![alt text](home1.jpg)
+![alt text](image.jpg)
 
 
 ## note 
-an interesting HTML I wrote was 
+an interesting HTML I wrote was in categories on like 88 to 96
  <div class="row">
       <div class="col1  sm-2 md-6 lg-12">
         <a href="ALL.html"><img src="image/894923-Zoom.1_2000x.jpg" alt="all products sanrio">   ALL</a> <Br> <hr>
